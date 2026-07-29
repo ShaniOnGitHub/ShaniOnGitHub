@@ -29,7 +29,7 @@ I build practical AI systems that combine retrieval, intelligent agents, reliabl
 - **[Foodie](https://github.com/ShaniOnGitHub/foodie)**: Semantic food recommendation engine using ChromaDB vector search, calorie range filtering, and grounded Groq LLM responses.
 - **[IBM RAG and Agentic AI](https://github.com/ShaniOnGitHub/ibm-rag-agentic-ai)**: Practical coursework and labs covering prompt templates, LangChain, semantic similarity search, and agent architectures.
 - **[Portfolio / ShaniGPT](https://github.com/ShaniOnGitHub/portfolio)**: Personal site featuring an in-browser client-side RAG chatbot powered by Transformers.js.
-- **DentraFlow**: AI receptionist product for dental clinics, leading technical integration and product growth.
+- **DentraFlow**: Contributing to product growth, client outreach, market research, and customer feedback for an AI receptionist product for dental clinics.
 
 ---
 
