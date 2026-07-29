@@ -1,7 +1,8 @@
 <div align="center">
 
 # Roshaan Ali Shah
-### Software Engineer building AI backend systems, RAG pipelines, and multi tenant services
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+and+AI+backend+systems;Co+founder+%40+DentraFlow;Final+year+Software+Engineering+student)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshaan-ali-shah)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roshaanali128@gmail.com)
@@ -40,6 +41,14 @@ outbound sales alongside the technical side.
 
 Working on go to market for DentraFlow, and iterating on the RAG and
 multi tenant patterns above across projects.
+
+---
+
+<div align="center">
+
+![Roshaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaniOnGitHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
 
 ---
 
