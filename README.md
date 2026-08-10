@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshaan-ali-shah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roshaanali128@gmail.com)
 
- I help businesses grow by selling AI solutions.
+I build AI systems for a living, then somehow end up selling it too.
 
 </div>
 
@@ -16,18 +16,18 @@
 
 ### About Me
 
-- Building RAG pipelines and AI agents, IBM certified in RAG and Agentic AI
-- Co-founder of Frequenzy, an events company in Islamabad
-- Social Media Lead at Google Developers Group on Campus
-- Living somewhere between code, GTM, and content, still figuring out which one wins
+- Building RAG pipelines and agents that mostly do what I tell them. IBM gave me a certificate for it, so it must be true.
+- Co-founded Frequenzy, we throw events in Islamabad (yeah i still dont know how i got into this field tbh)
+- Social Media Lead at GDG on Campus. Basically a professional meme curator with a purpose.
+- Splitting time between code, marketing, and content. Still not sure how i do all that.
 
 ---
 
 ### What I Am Building
 
 - **[Support Automation Agent](https://github.com/ShaniOnGitHub/support-automation-agent)**: Multi-tenant support system with RAG-grounded reply suggestions, automated ticket triage, tool execution, and human approval workflows.
-- **[Foodie](https://github.com/ShaniOnGitHub/foodie)**: Semantic food recommendation engine using ChromaDB vector search, calorie range filtering, and grounded Groq LLM responses.
-- **[IBM RAG and Agentic AI](https://github.com/ShaniOnGitHub/ibm-rag-agentic-ai)**: Practical coursework and labs covering prompt templates, LangChain, semantic similarity search, and agent architectures.
+- **[Foodie](https://github.com/ShaniOnGitHub/foodie)**: tells you what to eat using vector search instead of just asking your friends. ChromaDB knows your cravings better than you do.
+- **[IBM RAG and Agentic AI](https://github.com/ShaniOnGitHub/ibm-rag-agentic-ai)**: technically homework. Practically a full repo of prompt engineering labs, LangChain pipelines, and agent experiments.
 - **DentraFlow**: Contributing to product growth, client outreach, market research, and customer feedback for an AI receptionist product for dental clinics.
 
 ---
@@ -47,16 +47,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description | Technology |
-|---|---|---|
-| **[Support Automation Agent](https://github.com/ShaniOnGitHub/support-automation-agent)** | Workspace-based multi-tenant AI support system with JWT auth, ticket management, RAG suggestions, tool actions, audit logs, and human approval workflows. | `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `pgvector` · `Docker` |
-| **[Foodie](https://github.com/ShaniOnGitHub/foodie)** | Semantic food discovery and recommendation application featuring ChromaDB vector embeddings, calorie filtering, and grounded Groq LLM responses. | `Python` · `Streamlit` · `ChromaDB` · `Groq` · `RAG` |
-| **[IBM RAG and Agentic AI](https://github.com/ShaniOnGitHub/ibm-rag-agentic-ai)** | Hands-on coursework repository containing prompt engineering labs, LangChain pipelines, ChromaDB exercises, Gradio apps, and RAG chatbots. | `Python` · `LangChain` · `ChromaDB` · `Streamlit` · `Gradio` |
-
----
-
 ### Contribution Activity
 
 <div align="center">
@@ -70,6 +60,6 @@
 
 <div align="center">
 
-*Building useful systems, learning continuously, and documenting the process.*
+<p align="center"><i>Building things, breaking things, and writing it all down anyway.</i></p>
 
 </div>
