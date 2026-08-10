@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshaan-ali-shah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roshaanali128@gmail.com)
 
-I build practical AI systems that combine retrieval, intelligent agents, reliable backend services, and automation.
+ I help businesses grow by selling AI solutions.
 
 </div>
 
@@ -16,10 +16,10 @@ I build practical AI systems that combine retrieval, intelligent agents, reliabl
 
 ### About Me
 
-- **RAG & Agentic Systems**: I design and build Retrieval-Augmented Generation pipelines, multi-tenant AI agents, and grounded recommendation systems.
-- **Backend Architecture**: Primary focus on Python, FastAPI, PostgreSQL, vector databases (`ChromaDB`, `pgvector`), and modern LLM orchestration (`LangChain`, `Groq`, `OpenAI`).
-- **Practical Engineering**: I focus on reliable software patterns, comprehensive testing (`pytest`), and solving real business problems.
-- **Continuous Learning**: Actively expanding knowledge in production AI engineering, system design, performance optimization, and CI/CD pipelines.
+- Building RAG pipelines and AI agents, IBM certified in RAG and Agentic AI
+- Co-founder of Frequenzy, an events company in Islamabad
+- Social Media Lead at Google Developers Group on Campus
+- Living somewhere between code, GTM, and content, still figuring out which one wins
 
 ---
 
@@ -28,7 +28,6 @@ I build practical AI systems that combine retrieval, intelligent agents, reliabl
 - **[Support Automation Agent](https://github.com/ShaniOnGitHub/support-automation-agent)**: Multi-tenant support system with RAG-grounded reply suggestions, automated ticket triage, tool execution, and human approval workflows.
 - **[Foodie](https://github.com/ShaniOnGitHub/foodie)**: Semantic food recommendation engine using ChromaDB vector search, calorie range filtering, and grounded Groq LLM responses.
 - **[IBM RAG and Agentic AI](https://github.com/ShaniOnGitHub/ibm-rag-agentic-ai)**: Practical coursework and labs covering prompt templates, LangChain, semantic similarity search, and agent architectures.
-- **[Portfolio / ShaniGPT](https://github.com/ShaniOnGitHub/portfolio)**: Personal site featuring an in-browser client-side RAG chatbot powered by Transformers.js.
 - **DentraFlow**: Contributing to product growth, client outreach, market research, and customer feedback for an AI receptionist product for dental clinics.
 
 ---
@@ -48,17 +47,6 @@ I build practical AI systems that combine retrieval, intelligent agents, reliabl
 
 ---
 
-### GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShaniOnGitHub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Roshaan's GitHub General Statistics" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaniOnGitHub&layout=compact&theme=tokyonight&hide_border=true" alt="Roshaan's Top Programming Languages" width="48%" />
-
-</div>
-
----
-
 ### Featured Projects
 
 | Project | Description | Technology |
@@ -66,15 +54,6 @@ I build practical AI systems that combine retrieval, intelligent agents, reliabl
 | **[Support Automation Agent](https://github.com/ShaniOnGitHub/support-automation-agent)** | Workspace-based multi-tenant AI support system with JWT auth, ticket management, RAG suggestions, tool actions, audit logs, and human approval workflows. | `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `pgvector` · `Docker` |
 | **[Foodie](https://github.com/ShaniOnGitHub/foodie)** | Semantic food discovery and recommendation application featuring ChromaDB vector embeddings, calorie filtering, and grounded Groq LLM responses. | `Python` · `Streamlit` · `ChromaDB` · `Groq` · `RAG` |
 | **[IBM RAG and Agentic AI](https://github.com/ShaniOnGitHub/ibm-rag-agentic-ai)** | Hands-on coursework repository containing prompt engineering labs, LangChain pipelines, ChromaDB exercises, Gradio apps, and RAG chatbots. | `Python` · `LangChain` · `ChromaDB` · `Streamlit` · `Gradio` |
-| **[Portfolio](https://github.com/ShaniOnGitHub/portfolio)** | Developer portfolio showcasing AI, backend, and software projects. Features a fully client-side RAG chatbot (`ShaniGPT`). Live demo at [roshaandev.vercel.app](https://roshaandev.vercel.app). | `TanStack Start` · `TypeScript` · `Transformers.js` |
-
----
-
-### Recent Work
-
-- **Support Automation Agent**: Implemented comprehensive backend test suite (49 passing tests) covering authentication, RBAC, AI triage, RAG grounding, tool actions, and approval workflows.
-- **Foodie**: Integrated ChromaDB vector search (`mxbai-embed-large-v1`), added metadata calorie filtering, and created automated ingestion tests.
-- **IBM RAG and Agentic AI**: Refactored vector search exercises, modularized Streamlit/Gradio chatbot code, and added GitHub Actions CI verification workflows.
 
 ---
 
