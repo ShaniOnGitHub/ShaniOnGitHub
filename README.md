@@ -23,16 +23,6 @@ I build AI systems for a living, then somehow end up selling it too.
 
 ---
 
-### What I Am Building
-
-- **[Support Automation Agent](https://github.com/ShaniOnGitHub/support-automation-agent)**: Multi-tenant support system with RAG-grounded reply suggestions, automated ticket triage, tool execution, and human approval workflows.
-- **[Foodie](https://github.com/ShaniOnGitHub/foodie)**: tells you what to eat using vector search instead of just asking your friends. ChromaDB knows your cravings better than you do.
-- **[IBM RAG and Agentic AI](https://github.com/ShaniOnGitHub/ibm-rag-agentic-ai)**: technically homework. Practically a full repo of prompt engineering labs, LangChain pipelines, and agent experiments.
-- **DentraFlow**: Contributing to product growth, client outreach, market research, and customer feedback for an AI receptionist product for dental clinics.
-
-
----
-
 
 <div align="center">
 
